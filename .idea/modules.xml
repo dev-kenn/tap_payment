@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/tap_payment.iml" filepath="$PROJECT_DIR$/.idea/tap_payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/tap_payment_android.iml" filepath="$PROJECT_DIR$/android/tap_payment_android.iml" />
     </modules>
   </component>
 </project>
